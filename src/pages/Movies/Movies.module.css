@@ -1,0 +1,16 @@
+.form {
+  margin: 15px 0px 0px 30px;
+}
+
+.formInput {
+  margin-right: 10px;
+}
+
+.listOfMovies {
+  margin: 10px 0px 0px 30px;
+}
+
+.linkOfMovie {
+  text-decoration: none;
+  color: black;
+}

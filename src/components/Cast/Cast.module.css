@@ -1,0 +1,15 @@
+.actorInfo {
+  border: 1px solid grey;
+  padding: 15px 0px 15px 15px;
+  width: 190px;
+  margin-bottom: 10px;
+}
+
+.actorName {
+  font-weight: 500;
+  margin-left: 5px;
+}
+
+.actorCharacter {
+  font-size: 15px;
+}
